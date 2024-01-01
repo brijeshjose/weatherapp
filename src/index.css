@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Outfit', Helvetica, Arial, sans-serif;
+  height: 100vh;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://w0.peakpx.com/wallpaper/71/789/HD-wallpaper-globe-earth-map-planet-space-stars-world.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
